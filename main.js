@@ -27,7 +27,7 @@ width_of_line = document.getElementById("width_of_line").value;
 
 
 last_position_of_x = e.touches[0].clientX - canvas,offsetLeft;
-last_position_of_y = e.touches[0].clientY - canvas.offsetTop
+last_position_of_y = e.touches[0].clientY - canvas.offsetTop;
 }
 
 
